@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,4 +16,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
