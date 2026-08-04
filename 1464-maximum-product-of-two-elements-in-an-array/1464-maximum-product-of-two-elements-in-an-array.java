@@ -1,12 +1,24 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int max_product=Integer.MIN_VALUE;
-        for(int i=0;i<nums.length;i++){
-            for(int j=i+1;j<nums.length;j++){
-                int product=(nums[i]-1)*(nums[j]-1);
-                max_product=Math.max(max_product,product);
+    //     int max_product=Integer.MIN_VALUE;
+    //     for(int i=0;i<nums.length;i++){
+    //         for(int j=i+1;j<nums.length;j++){
+    //             int product=(nums[i]-1)*(nums[j]-1);
+    //             max_product=Math.max(max_product,product);
+    //         }
+    //     }
+    //     return max_product;
+        int largest=Integer.MIN_VALUE;
+        int second=Integer.MIN_VALUE;
+        for(int num:nums){
+            if(num>largest){
+                second=largest;
+                largest=num;
+            }
+            else if(num>second){
+                second=num;
             }
         }
-        return max_product;
+        return (largest-1)*(second-1);
     }
 }
