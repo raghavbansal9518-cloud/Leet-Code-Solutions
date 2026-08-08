@@ -3,7 +3,7 @@ class Solution {
         int start=0;
         int end=arr.length-1;
         while(start<=end){
-            int mid=start+(end-start)/2;
+            int mid=start+(end-start)/2; //For not making limit exceed of int.
             if(arr[mid]==target){
                 return mid;
             }
