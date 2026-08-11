@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0867-transpose-matrix) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0867-transpose-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0704-binary-search) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
