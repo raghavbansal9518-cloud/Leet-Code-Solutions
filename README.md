@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 ## String
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0766-toeplitz-matrix) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0704-binary-search) |
 ## Matrix
 |  |
