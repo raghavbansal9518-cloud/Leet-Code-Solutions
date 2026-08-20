@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0766-toeplitz-matrix) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
