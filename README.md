@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
