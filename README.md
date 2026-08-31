@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0867-transpose-matrix) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Matrix
