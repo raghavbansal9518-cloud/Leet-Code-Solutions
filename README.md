@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0412-fizz-buzz) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 | [0766-toeplitz-matrix](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
