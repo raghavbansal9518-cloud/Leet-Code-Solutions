@@ -8,7 +8,7 @@ class Solution {
             }
         }
         for(int i=0;i<m.length;i++){
-            int left=0,right=m.length-1;
+            int left=0,right=m[i].length-1;
             while(left<right){
                 int temp=m[i][left];
                 m[i][left]=m[i][right];
