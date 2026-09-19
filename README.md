@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
@@ -177,4 +179,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0169-majority-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
