@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0704-binary-search) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -138,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0875-koko-eating-bananas) |
