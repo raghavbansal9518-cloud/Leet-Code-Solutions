@@ -209,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
