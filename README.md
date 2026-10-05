@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0412-fizz-buzz) |
+| [3498-reverse-degree-of-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0867-transpose-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
