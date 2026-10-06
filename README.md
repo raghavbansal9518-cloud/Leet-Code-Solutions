@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2540-minimum-common-value](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2540-minimum-common-value](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2540-minimum-common-value) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2540-minimum-common-value](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2540-minimum-common-value) |
 ## Queue
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0875-koko-eating-bananas) |
+| [2540-minimum-common-value](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2540-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
