@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0412-fizz-buzz) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2469-convert-the-temperature](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2469-convert-the-temperature) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
