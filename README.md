@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0796-rotate-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0796-rotate-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
