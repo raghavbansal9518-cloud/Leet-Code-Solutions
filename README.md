@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0412-fizz-buzz) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2540-minimum-common-value](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2540-minimum-common-value) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
