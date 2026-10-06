@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2404-most-frequent-even-element](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2540-minimum-common-value) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2404-most-frequent-even-element](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Queue
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2404-most-frequent-even-element](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2404-most-frequent-even-element) |
 ## String Matching
 |  |
 | ------- |
