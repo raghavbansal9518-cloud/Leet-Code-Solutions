@@ -1,14 +1,8 @@
 class Solution {
     public String frequencySort(String s) {
     Map<Character,Integer>map=new HashMap<>();
-      for(char x:s.toCharArray()){
-          if(map.containsKey(x)){
-              map.put(x,map.get(x)+1);
-          }
-          else{
-              map.put(x,1);
-          }
-      }
+        for(char x : s.toCharArray())
+        map.put(x, map.getOrDefault(x, 0) + 1);
       String result="";
       while(!map.isEmpty()){
       char maxchar=0;
