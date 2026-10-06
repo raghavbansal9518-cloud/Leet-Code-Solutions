@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0724-find-pivot-index) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2404-most-frequent-even-element](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2404-most-frequent-even-element) |
@@ -214,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -266,5 +272,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
