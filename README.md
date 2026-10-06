@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0412-fizz-buzz) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2540-minimum-common-value](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2540-minimum-common-value) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Queue
 |  |
 | ------- |
