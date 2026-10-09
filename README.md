@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0867-transpose-matrix) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3498-reverse-degree-of-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2404-most-frequent-even-element](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2540-minimum-common-value) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2404-most-frequent-even-element](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/raghavbansal9518-cloud/Leet-Code-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
